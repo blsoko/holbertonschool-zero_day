@@ -1,4 +1,1 @@
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
-# holbertonschool-zero_day
+Learn to use vagrant, git, emacs & vi
