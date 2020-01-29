@@ -1,1 +1,1 @@
-Learn to use vagrant, git, emacs & vi
+Learn usage about this
